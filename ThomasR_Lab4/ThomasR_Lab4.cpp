@@ -144,7 +144,7 @@ void arithmetic(int difference, int start, int numElements) {
 
 			}
 
-				std::cout << "Go Again? [Y/N] ";
+			std::cout << "Go Again? [Y/N] ";
 				std::cin >> again;
 			} while (again == 'y' || again == 'Y');
 
